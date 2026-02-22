@@ -1,0 +1,13 @@
+about
+usage
+how-to-pass-the-lab
+intro
+aim-of-the-lab
+what-well-do
+theoretical-background
+part-1-simulation-of-an-electrical-circuit
+setting-up-your-circuit
+exploring-ohms-law
+resistors-in-series
+resistors-in-parallel
+end-of-exercise-part-one

@@ -11,3 +11,16 @@ exploring-ohms-law
 resistors-in-series
 resistors-in-parallel
 end-of-exercise-part-one
+part2-electrical-circuits-practical
+equipment
+function-generator
+oscilloscope
+breadboard
+electrical-components
+experiments
+getting-used-to-the-oscilloscope
+build-a-simple-electrical-circuit
+resistors-in-series-1
+resistors-in-parallel-1
+measure-and-unknown-resistor
+bonus-exercise-tuning-the-brightness-of-an-led
